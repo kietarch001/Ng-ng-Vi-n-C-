@@ -1,0 +1,6 @@
+{
+  "name": "Không Biện Minh! - No Excuses (Brian Tracy)",
+  "description": "Bản dịch tiếng Việt trọn vẹn, đầy đủ từng chương theo nguyên tác sách No Excuses! The Power of Self-Discipline của Brian Tracy. Trải nghiệm đọc sách tối giản, tinh tế và tập trung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
